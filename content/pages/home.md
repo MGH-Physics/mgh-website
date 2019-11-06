@@ -6,8 +6,8 @@ featuredImage: 'https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixl
 subtitle: "Need help studying for a physics test or contest? You've come to the right place."
 
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: A Student Run Organization at California High School
+  title: mgh Physics Club
 ---
 
 # Mission Statement

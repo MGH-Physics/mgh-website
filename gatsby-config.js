@@ -3,7 +3,7 @@ const postcssPresetEnv = require('postcss-preset-env')
 module.exports = {
   siteMetadata: {
     title: 'Yelloecake',
-    siteUrl: 'https://yellowcake.netlify.com'
+    siteUrl: 'https://mgh-physics.now.sh/'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'yellowcake',
-        short_name: 'yellowcake',
+        name: 'mgh-physics',
+        short_name: 'mgh-physics',
         start_url: '/',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',

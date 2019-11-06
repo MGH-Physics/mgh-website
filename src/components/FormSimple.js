@@ -42,8 +42,9 @@ export default ({
         <option disabled hidden>
           Type of Enquiry
         </option>
-        <option>Need to know more</option>
-        <option>Found a bug</option>
+        <option>Want to know more</option>
+        <option>Interested in joining</option>
+        <option>Inform of something physics related</option>
         <option>Want to say hello</option>
       </select>
     </label>
@@ -62,7 +63,7 @@ export default ({
     <input
       className='Button Form--SubmitButton'
       type='submit'
-      value='Enquire'
+      value='Submit'
     />
   </form>
 )
